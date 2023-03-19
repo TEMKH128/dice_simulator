@@ -1,0 +1,16 @@
+Development Process:
+* Terminal Program -> GUI (TKinter).
+
+Dice Selection:
+* Options: Single Dice, 2 Dice or 30 SECONDS Dice.
+* Prompt user for selection.
+
+Roll Selected Dice:
+* Roll specified dice based off user selection.
+
+Display Output:
+* Display output of the roll (Terminal -> GUI (final iteration)).
+
+Loop & Program Properties:
+* Allow for consecutive rolls until user specifies otherwise (exit/quit display).
+* Use PyInstaller to create single executable file.
